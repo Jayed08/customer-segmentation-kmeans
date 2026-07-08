@@ -249,6 +249,7 @@ customer-segmentation-kmeans/
 │   ├── customer_segments_pca.png
 │   ├── customer_segment_profile_heatmap.png
 │   ├── elbow_method.png
+│   ├── agglomerative_dendrogram.png
 │   └── feature_correlation_heatmap.png
 │
 └── data/
