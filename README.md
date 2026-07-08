@@ -6,7 +6,7 @@ An end-to-end unsupervised machine learning project that segments retail custome
 
 ## Live Demo
 
-🔗 **Streamlit:** https://YOUR-STREAMLIT-URL.streamlit.app
+🔗 **Streamlit:** https://customer-segmentation-jayed.streamlit.app/
 
 ## GitHub Repository
 
