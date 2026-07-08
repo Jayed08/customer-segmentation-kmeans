@@ -294,4 +294,4 @@ streamlit run app.py
 **Jayed Ansari**
 
 - GitHub: https://github.com/Jayed08
-- LinkedIn: YOUR_LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/jayedansari2005/
