@@ -8,10 +8,6 @@ An end-to-end unsupervised machine learning project that segments retail custome
 
 🔗 **Streamlit:** https://customer-segmentation-jayed.streamlit.app/
 
-## GitHub Repository
-
-🔗 https://github.com/Jayed08/customer-segmentation-kmeans
-
 ---
 
 # Problem Statement
